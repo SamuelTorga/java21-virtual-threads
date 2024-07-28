@@ -7,6 +7,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/structured-concurrency/pom.xml" />
         <option value="$PROJECT_DIR$/my-virtual-threads/pom.xml" />
+        <option value="$USER_HOME$/Downloads/springboot-projects/loomdemo/pom.xml" />
+        <option value="$USER_HOME$/Downloads/springboot-projects/bookstore/pom.xml" />
+        <option value="$USER_HOME$/Downloads/springboot-projects/bestpricebookstore/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
