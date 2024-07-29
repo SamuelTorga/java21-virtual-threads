@@ -7,15 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/structured-concurrency/pom.xml" />
         <option value="$PROJECT_DIR$/my-virtual-threads/pom.xml" />
-        <option value="$USER_HOME$/Downloads/springboot-projects/loomdemo/pom.xml" />
-        <option value="$USER_HOME$/Downloads/springboot-projects/bookstore/pom.xml" />
-        <option value="$USER_HOME$/Downloads/springboot-projects/bestpricebookstore/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/continuation-play/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
